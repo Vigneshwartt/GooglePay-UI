@@ -8,3 +8,4 @@ I recreated the Google Pay (GPay) user interface using HTML and Tailwind CSS.
 ### Screen Shot:
 
 ![GPay UI Screen]("C:\Users\vigne\OneDrive\Desktop\Gpay-ui\output.jpeg")
+"C:\Users\vigne\OneDrive\Pictures\Screenshots\Screenshot 2024-03-28 112702.png"
